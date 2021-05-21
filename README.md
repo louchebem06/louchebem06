@@ -6,7 +6,7 @@
 - 🍣 **I also like *sushi***
 - 📫 **How to reach me to *bledda@student.42nice.fr***
 
-## Challenge
+## Competition
 
 ###  🏆Spring Challenge 2021
 
