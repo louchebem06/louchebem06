@@ -15,11 +15,9 @@
 
 ---
 
-## Competition
-
 #  🏆Spring Challenge 2021
 ***Final position 536 out of 6867 general rank Golden League***
- 
+
 ---
 
 ![JaeSeoKim's github stats](https://github-readme-stats.vercel.app/api?username=louchebem06&bg_color=7f7fd5,86a8e7,91eac9&title_color=fff&text_color=fff)
