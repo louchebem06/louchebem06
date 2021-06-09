@@ -15,7 +15,7 @@
 
 ---
 
-#  🏆Spring Challenge 2021
+*🏆Spring Challenge 2021*
 ***Final position 536 out of 6867 general rank Golden League***
 
 ---
