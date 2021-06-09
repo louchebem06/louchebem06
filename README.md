@@ -6,6 +6,8 @@
 - 🍣 **I also like *sushi***
 - 📫 **How to reach me to *bledda@student.42nice.fr***
 
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/bledda)](https://github.com/JaeSeoKim/badge42)
+
 ## Competition
 
 ###  🏆Spring Challenge 2021
