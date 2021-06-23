@@ -10,9 +10,9 @@
 
 [![bledda's 42 stats](https://badge42.herokuapp.com/api/stats/bledda)](https://github.com/JaeSeoKim/badge42)
 
-🍎  **I love the *apple* brand **
+🍎  **I love the *apple* brand**
 
-🍣  **I also like *sushi* **
+🍣  **I also like *sushi***
 
 ---
 
