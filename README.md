@@ -10,10 +10,9 @@
 🍎  **I love the *apple* brand **
 
 🍣  **I also like *sushi***
-
-**🏆 Spring Challenge 2021**
-
-***Final position 536 out of 6867 general rank Golden League***
-
+---
+|CHALLENGE|PLACE|
+|--|--|
+|🏆 Spring Challenge 2021| 536/6867|
 ---
 ![louchebem06's github stats](https://github-readme-stats.vercel.app/api?username=louchebem06&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
