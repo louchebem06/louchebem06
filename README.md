@@ -9,7 +9,7 @@
 
 🎓  **Student at *42 Nice***
 
-[![bledda's 42 stats](https://baddel.fr:3000/api/stats/bledda)](https://github.com/JaeSeoKim/badge42)
+[![bledda's 42 stats](http://baddel.fr:3000/api/stats/bledda)](https://github.com/JaeSeoKim/badge42)
 
 🍎  **I love the *apple* brand**
 
