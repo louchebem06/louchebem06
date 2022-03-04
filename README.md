@@ -18,11 +18,6 @@
 ---
 
 ### Challenge!
-
-|CHALLENGE|PLACE|
-|--|--|
-|🏆 Spring Challenge 2021| 536/6867|
----
 [![bledda's 42 stats](http://baddel.fr:4231/test.php?user=bledda&challenge=spring-challenge-2021&event=challenge)](https://github.com/louchebem06/CardCodinGame)
 ### STATS!
 
