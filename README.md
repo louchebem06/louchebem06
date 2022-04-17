@@ -9,7 +9,7 @@
 <p>🍎  <strong>I love the apple brand</strong></p>
 <p>🍣  <strong>I also like sushi</strong></p>
 
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1ffqrw7000909l6lulah7ch/stats?cursusId=21&coalitionId=105" alt="bledda's 42 stats" /></a>
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1ffqrw7000909l6lulah7ch/stats?cursusId=21&coalitionId=122" alt="bledda's 42 stats" /></a>
 
 <h2>Coding Game</h2>
 
