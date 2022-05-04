@@ -10,10 +10,6 @@
 <p>🍣  <strong>I also like sushi</strong></p>
 
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1ffqrw7000909l6lulah7ch/stats?cursusId=21&coalitionId=122" alt="bledda's 42 stats" /></a>
-
-<h2>Coding Game</h2>
-
-<img src="http://baddel.fr:4231/test.php?user=bledda&challenge=spring-challenge-2021&event=challenge"/>
   
 <h2>Stats !</h2>
 
