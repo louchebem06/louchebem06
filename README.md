@@ -38,6 +38,6 @@
 <p>🍣  <strong>I also like sushi</strong></p>
  
 <img src="https://github-readme-stats.vercel.app/api?username=louchebem06&show_icons=true&count_private=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=louchebem06&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=louchebem06&layout=pie"/>
 
 </section>
