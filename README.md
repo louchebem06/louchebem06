@@ -40,4 +40,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=louchebem06&show_icons=true&count_private=true"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=louchebem06&layout=pie"/>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=louchebem06&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 </section>
